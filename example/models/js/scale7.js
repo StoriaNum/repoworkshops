@@ -27,7 +27,7 @@
 		"colorSpecular" : [0.08627451211214066, 0.08627451211214066, 0.08627451211214066],
 		"depthTest" : true,
 		"depthWrite" : true,
-		"mapDiffuse" : "../textures/12240002.png",
+		"mapDiffuse" : "https://storianum.github.io/repoworkshops/example/models/textures/12240002.png",
 		"mapDiffuseWrap" : ["repeat", "repeat"],
 		"shading" : "Lambert",
 		"specularCoef" : 33,
